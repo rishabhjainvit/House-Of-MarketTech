@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# House of MarketTech - Frontend Development Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was completed as an assignment for the House of MarketTech, where I was tasked with developing the frontend of a specified website. I focused on creating a user-friendly and visually appealing interface, ensuring a responsive design and a smooth user experience.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Project Overview
 
-### `npm start`
+The goal of this assignment was to design and develop the frontend for a website, paying close attention to both aesthetics and functionality. The project adheres to the design principles and requirements provided by House of MarketTech, delivering a professional and interactive web interface.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠 Tech Stack
 
-### `npm test`
+- **Frontend Framework**: React.js
+- **Styling**: CSS, styled-components
+- **Additional Libraries**: Bootstrap (for additional layout and styling convenience)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🌟 Key Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Responsive Design**: Optimized for both desktop and mobile viewing, ensuring a seamless experience across devices.
+- **User-Friendly Layout**: Designed to enhance usability with intuitive navigation and well-organized content sections.
+- **Interactive Elements**: Includes hover effects, animations, and other UI interactions to improve engagement.
+- **Optimized Performance**: Minimized loading times through efficient code structure and component organization.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📁 Project Structure
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```plaintext
+.
+├── public
+│   ├── index.html
+│   └── ...
+├── src
+│   ├── assets          # Images, icons, and other static assets
+│   ├── components      # Reusable components (e.g., Navbar, Footer, Card)
+│   ├── pages           # Main page components (e.g., Home, About, Contact)
+│   ├── styles          # CSS files and styled-components for layout and design
+│   ├── App.js          # Main application file
+│   ├── index.js        # Entry point for React
+│   └── ...
+└── README.md
